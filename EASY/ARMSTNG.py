@@ -9,9 +9,9 @@
 
 # Code :
 
-range = int(input("Enter the range : "))
+range1 = int(input("Enter the range : "))
 
-for i in range(1, range):
+for i in range(1, range1):
     add = 0 
     length = len(str(i))
     temp = i 
