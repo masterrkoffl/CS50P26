@@ -10,7 +10,7 @@
 # member.
 #
 # Input
-#
+
 # Your program will be tested on one or more test cases. Each case is specified on a single line with three integers
 # (−10, 000 < a1 , a2 , a3 < 10, 000) where a1 , a2 , and a3 are distinct.
 # The last case is followed by a line with three zeros.
